@@ -1,3 +1,15 @@
 h1{
     text-align: center;
 }
+
+p{
+    text-align: center;
+}
+
+.container{
+    border-style: solid;
+}
+
+.txt{
+    margin-top: 20%;
+}
